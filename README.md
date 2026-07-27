@@ -1,5 +1,5 @@
 # Hi there 👋
-I aam Nisha Shetty
+I am Nisha Shetty
 🎓 CSE Student at SMVITM
 
 💻 Interested in AI and  Web Development 
