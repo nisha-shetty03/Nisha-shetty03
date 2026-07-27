@@ -19,9 +19,9 @@ I am Nisha Shetty
 <img src="https://streak-stats.demolab.com?user=Nisha-shetty03&theme=tokyonight"/>
 
 </p>
-
+<!--
 ## 📊 Activity Graph
-
+<!--
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nisha-shetty03&theme=tokyo-night)
 <!--
 **nisha-shetty03/Nisha-shetty03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
