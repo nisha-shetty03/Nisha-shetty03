@@ -6,6 +6,10 @@ I aam Nisha Shetty
 
 📫 Reach me:
 - LinkedIn: https://linkedin.com/in/Nishashetty
+
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,c,react,nodejs,mongodb,mysql,html)](https://skillicons.dev)
 <!--
 **nisha-shetty03/Nisha-shetty03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
