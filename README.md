@@ -12,6 +12,21 @@ I am Nisha Shetty
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,c,react,nodejs,mongodb,mysql,html)](https://skillicons.dev)
 
 
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+## 📊 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10"/>
 
 
 <!--
