@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+I aam Nisha Shetty
+🎓 CSE Student at SMVITM
 
+💻 Interested in AI and  Web Development 
+
+📫 Reach me:
+- LinkedIn: https://linkedin.com/in/Nishashetty
 <!--
 **nisha-shetty03/Nisha-shetty03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
