@@ -16,17 +16,17 @@ I am Nisha Shetty
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Nisha-shetty03&theme=tokyonight"/>
 
 </p>
 ## 📊 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha-shetty03&theme=tokyo-night"/>
 
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nisha-shetty03&theme=tokyonight&margin-w=10"/>
 
 
 <!--
