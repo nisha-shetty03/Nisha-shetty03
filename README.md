@@ -20,12 +20,6 @@ I am Nisha Shetty
 
 </p>
 
-## 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha-shetty03&theme=tokyo-night" alt="Activity Graph"/>
-</p>
-
 
 <p align="center">
 
