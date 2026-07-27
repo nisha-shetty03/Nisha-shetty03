@@ -25,10 +25,6 @@ I am Nisha Shetty
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha-shetty03&theme=tokyo-night"/>
 
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nisha-shetty03&theme=tokyonight&margin-w=10"/>
-
 
 <p align="center">
 
