@@ -11,13 +11,6 @@ I am Nisha Shetty
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,c,react,nodejs,mongodb,mysql,html)](https://skillicons.dev)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Nisha-shetty03&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha-shetty03&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha-shetty03&layout=compact&theme=tokyonight)
 
 
 
