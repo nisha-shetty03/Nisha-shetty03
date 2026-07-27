@@ -19,6 +19,7 @@ I am Nisha Shetty
 <img src="https://streak-stats.demolab.com?user=Nisha-shetty03&theme=tokyonight"/>
 
 </p>
+
 ## 📊 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha-shetty03&theme=tokyo-night"/>
@@ -27,6 +28,7 @@ I am Nisha Shetty
 ## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=Nisha-shetty03&theme=tokyonight&margin-w=10"/>
+
 
 <p align="center">
 
