@@ -5,7 +5,7 @@ I am Nisha Shetty
 💻 Interested in AI and  Web Development 
 
 📫 Reach me:
-- LinkedIn: https://linkedin.com/in/Nishashetty
+- LinkedIn: https://linkedin.com/in/Nishashetty-74815833
 
 ## 💻 Tech Stack
 
