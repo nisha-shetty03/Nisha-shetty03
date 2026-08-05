@@ -13,10 +13,10 @@ I am Nisha Shetty
 
 
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats-eight.vercel.app?user=Nisha-shetty03&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nisha-shetty03&show_icons=true&theme=tokyonight" />
 </p>
 
 <!--
