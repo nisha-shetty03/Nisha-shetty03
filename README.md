@@ -16,7 +16,7 @@ I am Nisha Shetty
 ## 🔥 GitHub Streak
 
 <p align="center">
- [ <img src="https://github-readme-stats.vercel.app/api?username=Nisha-shetty03&show_icons=true&theme=tokyonight" />](https://streak-stats.demolab.com?user=Nisha-shetty03&theme=tokyonight&cache_seconds=1)
+<img src="https://streak-stats.demolab.com?user=Nisha-shetty03&theme=tokyonight&v=2"/>
 </p>
 
 <!--
