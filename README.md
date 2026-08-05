@@ -16,9 +16,8 @@ I am Nisha Shetty
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Nisha-shetty03&theme=tokyonight&v=2"/>
+  <img src="https://streak-stats.demolab.com?user=Nisha-shetty03&theme=tokyonight" />
 </p>
-
 <!--
 ## 📊 Activity Graph
 <!--
