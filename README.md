@@ -13,7 +13,7 @@ I am Nisha Shetty
 
 
 
-## 📊 GitHub Stats
+## 🔥 GitHub Strike
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nisha-shetty03&show_icons=true&theme=tokyonight" />
