@@ -14,9 +14,8 @@ I am Nisha Shetty
 
 
 ## 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nisha-shetty03&theme=tokyonight&timezone=Asia%2FKolkata"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nisha-shetty03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 <!--
 ## 📊 Activity Graph
