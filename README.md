@@ -15,7 +15,7 @@ I am Nisha Shetty
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisha-shetty03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=Nisha-shetty03" />
 </p>
 <!--
 ## 📊 Activity Graph
